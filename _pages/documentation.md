@@ -30,18 +30,18 @@ Download or view of eYFi-Mega documentations.
 ## eYFi-Mega Hardware Manual <a name="hw-man"></a>
 
 #### Latest (v0.1)
-<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0s-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/11todvva22pod3s9rla304dmj5b55g1h/1576245600000/01066791640500494942/*/1QNMjv0bE43icOYabNw0N2ToAuxzWwC4K?e=download" target="_self" style="color: #ffffff">Download</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0g-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/pfe9nr40ou69a05dcbcg09mhd110tis1/1576260000000/01066791640500494942/*/1-4euUicFT_uUmrXwKPZSjoNThYvV-g2N?e=download" target="_self" style="color: #ffffff">Download</a></button>
 
-<button class="btn"><i class="fa fa-book"></i> <a href="https://drive.google.com/file/d/1QNMjv0bE43icOYabNw0N2ToAuxzWwC4K/view" target="_self" style="color: #ffffff">View</a></button>
+<button class="btn"><i class="fa fa-book"></i> <a href="https://drive.google.com/file/d/1-4euUicFT_uUmrXwKPZSjoNThYvV-g2N/view" target="_self" style="color: #ffffff">View</a></button>
 
 
 
 ## eYFi-Mega Software Manual <a name="sw-man"></a>
 
 #### Latest (v0.1)
-<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0o-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/17r7eiuu9dtbam5q6ak4uofbql7tj0qc/1576245600000/01066791640500494942/*/1IR-_LbEi41v1kdodR-lM3iVuufwixXI3?e=download" target="_self" style="color: #ffffff">Download</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0k-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/m1du4j9h9u9if0s2m06lu3o7a0312u3r/1576260000000/01066791640500494942/*/1-RU9d6Layjd5Zka0tv_V2R_TUST5pLwQ?e=download" target="_self" style="color: #ffffff">Download</a></button>
 
-<button class="btn"><i class="fa fa-book"></i> <a href="https://drive.google.com/file/d/1IR-_LbEi41v1kdodR-lM3iVuufwixXI3/view" target="_self" style="color: #ffffff">View</a></button>
+<button class="btn"><i class="fa fa-book"></i> <a href="https://drive.google.com/file/d/1-RU9d6Layjd5Zka0tv_V2R_TUST5pLwQ/view" target="_self" style="color: #ffffff">View</a></button>
 
 
 <br>
