@@ -30,40 +30,62 @@ include_in_header: true
 
 # eYFi-Mega Downloads
 
- <ol type="1">
+<!--  <ol type="1">
   <li><a href="#ey-ide" target="_self">eY-IDE (VS Code Based)</a></li>
   <li><a href="#esp32-boot" target="_self">eYFi-Mega ESP32 OTA Bootloader</a></li>
   <li><a href="#atmega2560-boot" target="_self">eYFi-Mega ATMega2560 OTA Bootloader</a></li>
   <li><a href="#ota-app" target="_self">ESP32 Local OTA Update App</a></li>
   <li><a href="#wireless-tx-app" target="_self">ESP32 Wireless AVR Serial Terminal App</a></li>
   <li><a href="#rr-apps" target="_self">eYRC 2019-20: Rapid Rescuer Downloads</a></li>
-</ol> 
+</ol>  -->
 
 
-## eY-IDE (VS Code Based) <a name="ey-ide"></a>
-<button class="btn"><i class="fa fa-download"></i> <a href="https://www.google.com" target="_self" style="color: #ffffff">Download</a></button>
-* VS Code based **portable** e-Yantra IDE. Unzip and Use.
-* Program ATMega2560 and ESP32.
-* Flash ATMega2560 and ESP32 programs wirelessly through the IDE.
+<p><br></p>
 
-## eYFi-Mega ESP32 OTA Bootloader <a name="ota-app"></a>
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-esp32-bootloader-releases/raw/master/esp32-bootloader.bin" target="_self" style="color: #ffffff">Download v0.4.0</a></button>
-* Allows user to switch between ESP32 User Application and eYFi-Mega OTA Application.
+## eY-IDE
 
-## eYFi-Mega ATMega2560 OTA Bootloader <a name="ota-app"></a>
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-atmega2560-bootloader-releases/archive/master.zip" target="_self" style="color: #ffffff">Download v0.1.1</a></button>
-* Allows user to flash ATMega2560 firmware wirelessly.
+### VS Code (Linux, 64-Bit) 
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-esp32-bootloader-releases/raw/master/esp32-bootloader.bin" target="_self" style="color: #ffffff">Download</a></button>
 
-## ESP32 Local OTA Update App <a name="ota-app"></a>
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-ota-app-releases/raw/master/eyfi-mega-ota-app.bin" target="_self" style="color: #ffffff">Download v0.1.1</a></button>
-* ESP32 application to enable wireless flashing of ATMega2560 or ESP32 firmware.
+### Extensions
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-esp32-bootloader-releases/raw/master/esp32-bootloader.bin" target="_self" style="color: #ffffff">Download</a></button>
 
-## ESP32 Wireless AVR Serial Terminal App <a name="wireless-tx-app"></a>
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-wireless-tx-releases/raw/master/eyfi-mega-wireless-terminal.bin" target="_self" style="color: #ffffff">Download v0.1.0</a></button>
-* ESP32 application to transmit serial data from ATMega2560 to any computing device (Phones, Laptops) over WiFi.
+### eY-Toolchain
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-esp32-bootloader-releases/raw/master/esp32-bootloader.bin" target="_self" style="color: #ffffff">Download</a></button>
 
-## eYRC 2019-20: Rapid Rescuer Downloads <a name="rr-apps"></a>
-### RR Grader
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyrc-2019-20-rr-releases/raw/master/rr-grader.zip" target="_self" style="color: #ffffff">Download v0.1.0</a></button>
+
+<p><br></p>
+<p><br></p>
+
+
+## eYFi-Mega Bootloaders
+
+### ATmega 2560 
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0o-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rv16p2qh771d2ibegk7rmdbj8t7dob91/1576238400000/01066791640500494942/*/1BwXsAaiJYopFkXJDlaIHU_QnjZeEvIsW?e=download" target="_self" style="color: #ffffff">Download v0.2.0</a></button>
+
+### ESP32
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-14-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ncj4hbqhegcb6dn4p6a85dbt5ca2q6ih/1576238400000/01066791640500494942/*/1n0l21hZjSWZRlSIkBk-AzNNtPZgxo1jG?e=download" target="_self" style="color: #ffffff">Download v0.1.1</a></button>
+
+
+<p><br></p>
+<p><br></p>
+
+## eYFi-Mega ESP32 Specific
+
+### ESPTOOL 
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0k-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/u4f6fl6v0i24696mai8v6o4h59g1nl2b/1576238400000/01066791640500494942/*/1HievOWMa30PXHzG5EF6rqdZH9ON2crv1?e=download" target="_self" style="color: #ffffff">Download</a></button>
+
+### ESP32 Partition Table
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-14-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/s38i18upgkc2voa0c9unl3db00afvlom/1576238400000/01066791640500494942/*/1nUJRqyuROc3QpN4rqwx2xweBZtUB-yMb?e=download" target="_self" style="color: #ffffff">Download</a></button>
+
+### ESP32 OTA Application
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0s-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/44jln1pvjcma2f0u3f916ahu6msvp6a1/1576238400000/01066791640500494942/*/14fA75KTJituPKkoxxEF1JLmdRNEN6SPe?e=download" target="_self" style="color: #ffffff">Download v0.5.0</a></button>
+
+### ESP32 Wireless Terminal Application
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-10-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/es6d2e6dtvtv1gdaos6t9uvhs6uef2q1/1576238400000/01066791640500494942/*/1Wzmp8Vp14wcltIns1vCOlfKtTuPIYSQe?e=download" target="_self" style="color: #ffffff">Download v0.1.0</a></button>
+
+<p><br></p>
+<p><br></p>
+
 
 <br>
