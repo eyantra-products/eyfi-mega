@@ -45,13 +45,13 @@ include_in_header: true
 ## eY-IDE
 
 ### VS Code (Linux, 64-Bit) 
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-esp32-bootloader-releases/raw/master/esp32-bootloader.bin" target="_self" style="color: #ffffff">Download</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-14-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/24r8228h73k8gb7qd71194mou6h06mhj/1576245600000/01066791640500494942/*/1_vmtnWX4Q5TxXv6xEeRi9AWWFOuGtmeF?e=download" target="_self" style="color: #ffffff">Download</a></button>
 
 ### Extensions
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-esp32-bootloader-releases/raw/master/esp32-bootloader.bin" target="_self" style="color: #ffffff">Download</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0s-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/t8qslcnkcbl57skeeem30rril3aeohpd/1576245600000/01066791640500494942/*/1XME9MjbejFq04vW3a2f9GyCaOZ_ut0v5?e=download" target="_self" style="color: #ffffff">Download</a></button>
 
 ### eY-Toolchain
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-esp32-bootloader-releases/raw/master/esp32-bootloader.bin" target="_self" style="color: #ffffff">Download</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0s-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/fj05f68nii7i64t15ouermejciukofbj/1576245600000/01066791640500494942/*/1TkfivUcgRqiZ_N__Ch-ywrkR9UYqViav?e=download" target="_self" style="color: #ffffff">Download</a></button>
 
 
 <p><br></p>
