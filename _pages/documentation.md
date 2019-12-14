@@ -30,7 +30,7 @@ Download or view of eYFi-Mega documentations.
 ## eYFi-Mega Hardware Manual <a name="hw-man"></a>
 
 #### Latest (v0.1)
-<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0s-7k-docs.googleusercontent.com/docs/securesc/fqgcdr6ulugrpmd1h6sntksfs24tagdn/r7loto58krdm8vtfnn98mjbeqavmhq59/1576296000000/01066791640500494942/01066791640500494942/196V56MfDNNjgQ7OwL4H2LY8gbZDWWu29?e=download" target="_self" style="color: #ffffff">Download</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0k-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/6eod7uo2ifrk629chigpmv4pdedb3n56/1576303200000/01066791640500494942/*/196V56MfDNNjgQ7OwL4H2LY8gbZDWWu29?e=download" target="_self" style="color: #ffffff">Download</a></button>
 
 <button class="btn"><i class="fa fa-book"></i> <a href="https://drive.google.com/file/d/196V56MfDNNjgQ7OwL4H2LY8gbZDWWu29/view" target="_self" style="color: #ffffff">View</a></button>
 
