@@ -98,7 +98,7 @@ include_in_header: true
   
   <tr>
     <td>2</td>
-    <td>ATmega 2560 - ESP32 UART Communication</td>
+    <td>Communication - UART between ATmega 2560 and ESP32</td>
     <td><a href="https://drive.google.com/file/d/1RLYrIgSzKB2DrHNo8RHt2eHpKvhpu94y/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
@@ -127,7 +127,7 @@ include_in_header: true
 
   <tr>
     <td>2</td>
-    <td>Communication - Socket Echo over Wi-Fi</td>
+    <td>Communication - Socket Echo to Python over Wi-Fi</td>
     <td><a href="https://drive.google.com/file/d/1KI-a_Vq5T7W0wuaKnGLdjLjWWmfnTQta/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
