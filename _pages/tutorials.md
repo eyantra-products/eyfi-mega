@@ -6,6 +6,9 @@ include_in_header: true
 
 # eYFi-Mega Quick Bytes
 
+<br>
+
+**Last updated on:** December 16, 2019
 
 <br>
 
@@ -23,55 +26,55 @@ include_in_header: true
   <tr>
     <td>1</td>
     <td>Digital Output</td>
-    <td><a href="https://drive.google.com/file/d/1iG5QqvwTswTnppciCQLvwz2CUD9xrbL2/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/1m_mXcujArh97MaDcNQeKB8POJiAV26RN/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>2</td>
     <td>Digital Input</td>
-    <td><a href="https://drive.google.com/file/d/10Sm-WL8DMJBIqfVh_poAWh2yTX66ziF0/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/1HeJSm6tNeJF5BNGqV-TH7GC75VHemCF2/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>3</td>
     <td>Interrupt - External</td>
-    <td><a href="https://drive.google.com/file/d/1eFXDaBBT0OjUaMbrQcNelCr8XV9MPdws/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/1vhoBmrmNX6VdHtOcXW-1wRyEnNyn-2Wr/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>4</td>
     <td>Interrupt - Internal using Timer</td>
-    <td><a href="https://drive.google.com/file/d/1SAA-Jfkiape1YxkjR1ZDkkR4VXk5Cpd1/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/101IJN1l990Haoml083c3Uxe3GJg6DS2Z/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
     
   <tr>
     <td>5</td>
     <td>Analog Output - PWM</td>
-    <td><a href="https://drive.google.com/file/d/1VqfdCtWVp1Y0qI3JN2y5HF5_4J8TYfko/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/1KKuUNCtKCnEpZyEBv6u5i4o3g4k6PqZj/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>6</td>
     <td>Analog Input - ADC</td>
-    <td><a href="https://drive.google.com/file/d/1L14iMvmt4IZOiVhP_wpF1k3ynGz4RZ0R/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/13wPzBDhBgmTNbcV55GaULIudv1C9-HYP/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>7</td>
     <td>Communication - UART</td>
-    <td><a href="https://drive.google.com/file/d/1zRYcOQMBzrXSlPKwW2NH-Ihdl82Qb3e5/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/1h7hKgyxdufj8BsGJdT87qA5tLcjF3QiX/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>8</td>
     <td>Communication - I2C</td>
-    <td><a href="https://drive.google.com/file/d/13i_rbaW06Gd8BlIm9gB9Q5riiH59DcbG/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/1rz_vbYmY8Gx9UmgKJcY-tkeYNotfOCOX/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
     
   <tr>
     <td>9</td>
     <td>Communication - SPI</td>
-    <td><a href="https://drive.google.com/file/d/1U74phUEB3nD22W-VwLMbP0vUudmB_wpI/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/10ee2RbHhViP3ZCTBulIsEIDizAfMUuUg/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 </table>
 
@@ -91,8 +94,14 @@ include_in_header: true
   </tr>
   <tr>
     <td>1</td>
-    <td>ATmega 2560 Wireless Serial Terminal</td>
-    <td><a href="https://drive.google.com/file/d/1v66NjRotM6kEOqLJt2KUMJP-vg9ni3LN/view?usp=sharing" target="_blank">Link</a></td>
+    <td>eYFi Wireless Serial Terminal for ATmega 2560</td>
+    <td><a href="https://drive.google.com/file/d/12ZC33tqbD_I0uv4FMejRHEc5W0UmsnfA/view?usp=sharing" target="_blank">Link</a></td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>ATmega 2560 - ESP32 UART Communication</td>
+    <td><a href="https://drive.google.com/file/d/1RLYrIgSzKB2DrHNo8RHt2eHpKvhpu94y/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
 </table>
@@ -115,13 +124,13 @@ include_in_header: true
   <tr>
     <td>1</td>
     <td>Digital Output</td>
-    <td><a href="https://drive.google.com/file/d/1njNeNmeUcPRB02VDeXqMLK7y741bbo7e/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/1qdtZgNirXb2OlCQfexigQ3Xhf7k-Q_k2/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>2</td>
     <td>Communication - Socket Echo over Wi-Fi</td>
-    <td><a href="https://drive.google.com/file/d/1rDgorGul_nWoLCHfC3v6gLGyMStMgfoi/view?usp=sharing" target="_blank">Link</a></td>
+    <td><a href="https://drive.google.com/file/d/1KI-a_Vq5T7W0wuaKnGLdjLjWWmfnTQta/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
 </table>
