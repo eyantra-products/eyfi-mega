@@ -6,8 +6,6 @@ include_in_header: true
 
 # eYFi-Mega Quick Bytes
 
-<br>
-
 **Last updated on:** December 16, 2019
 
 <br>
