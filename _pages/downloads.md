@@ -79,7 +79,7 @@ include_in_header: true
 <button class="btn"><i class="fa fa-download"></i> <a href="https://drive.google.com/file/d/1nUJRqyuROc3QpN4rqwx2xweBZtUB-yMb/view?usp=sharing" target="_blank" style="color: #ffffff">Download</a></button>
 
 ### ESP32 OTA Application
-<button class="btn"><i class="fa fa-download"></i> <a href="https://drive.google.com/file/d/14fA75KTJituPKkoxxEF1JLmdRNEN6SPe/view?usp=sharing" target="_blank" style="color: #ffffff">Download v0.5.0</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://drive.google.com/file/d/1lTBG7AdAXftwd9IiYUYUlnicuPOmmrJF/view?usp=sharing" target="_blank" style="color: #ffffff">Download v0.5.0</a></button>
 
 ### ESP32 Wireless Terminal Application
 <button class="btn"><i class="fa fa-download"></i> <a href="https://drive.google.com/file/d/1Wzmp8Vp14wcltIns1vCOlfKtTuPIYSQe/view?usp=sharing" target="_blank" style="color: #ffffff">Download v0.1.0</a></button>
