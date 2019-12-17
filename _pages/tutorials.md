@@ -6,7 +6,7 @@ include_in_header: true
 
 # eYFi-Mega Quick Bytes
 
-<!-- **Last updated on:** December 16, 2019
+<!-- **Last updated on:** December 17, 2019
  -->
 <br>
 
@@ -26,64 +26,64 @@ include_in_header: true
   <tr>
     <td>1</td>
     <td>Digital Output</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1m_mXcujArh97MaDcNQeKB8POJiAV26RN/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1TG-gbafJLdfLFX7Djd-Xqt6nxT2GBirJ/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>2</td>
     <td>Digital Input</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1HeJSm6tNeJF5BNGqV-TH7GC75VHemCF2/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1-hg2AqdpObo9erlkkLIKuI_J54ED_Ksd/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>3</td>
     <td>Interrupt - External</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1vhoBmrmNX6VdHtOcXW-1wRyEnNyn-2Wr/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1-9Zck_PbViwKiuilKCaEuoteza8jlhCg/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>4</td>
     <td>Interrupt - Internal using Timer</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/101IJN1l990Haoml083c3Uxe3GJg6DS2Z/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1I648r7j-Pi9azTbhRN0-VrK58xx02gIJ/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
     
   <tr>
     <td>5</td>
     <td>Analog Output - PWM</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1KKuUNCtKCnEpZyEBv6u5i4o3g4k6PqZj/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1LVu47ofM1mxpScONd8F1OsIuHab1azdX/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>6</td>
     <td>Analog Input - ADC</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/13wPzBDhBgmTNbcV55GaULIudv1C9-HYP/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1oRQBeJVyO-4Bno8nkZc6PHn5w_ADZMPY/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>7</td>
     <td>Communication - UART</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1h7hKgyxdufj8BsGJdT87qA5tLcjF3QiX/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1JG8gYcVZZGsYc9xc8_FwCgno_M_4hBSP/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>8</td>
     <td>Communication - I2C</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1rz_vbYmY8Gx9UmgKJcY-tkeYNotfOCOX/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1ukyGYeQOvlnQ81ylQxkMr2r4Lw_wSd6H/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
     
   <tr>
     <td>9</td>
     <td>Communication - SPI</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/10ee2RbHhViP3ZCTBulIsEIDizAfMUuUg/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/15Ure96ymH0jNdBD-8_2iDzscKE8KZKNE/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 </table>
 
@@ -106,15 +106,15 @@ include_in_header: true
   <tr>
     <td>1</td>
     <td>eYFi Wireless Serial Terminal for ATmega 2560</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/12ZC33tqbD_I0uv4FMejRHEc5W0UmsnfA/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1RirXyxhWCSpCrq8NBgoo9Qhe_HXDo5z_/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
   
   <tr>
     <td>2</td>
     <td>Communication - UART between ATmega 2560 and ESP32</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1RLYrIgSzKB2DrHNo8RHt2eHpKvhpu94y/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/19-OuVcQKRkqd630QmMFYS4NxHpRFf51b/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
 </table>
@@ -139,15 +139,15 @@ include_in_header: true
   <tr>
     <td>1</td>
     <td>Digital Output</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1qdtZgNirXb2OlCQfexigQ3Xhf7k-Q_k2/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1Y7dmN4MNMIIkcJhnzJv_EfVfJJm1mnq-/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
   <tr>
     <td>2</td>
     <td>Communication - Socket Echo to Python over Wi-Fi</td>
-    <td>12 DEC 2019</td>
-    <td><a href="https://drive.google.com/file/d/1KI-a_Vq5T7W0wuaKnGLdjLjWWmfnTQta/view?usp=sharing" target="_blank">Link</a></td>
+    <td>17 Dec 2019</td>
+    <td><a href="https://drive.google.com/file/d/1jQ-jpgRXcSQuo8wppWogDCrdSpu7bw-g/view?usp=sharing" target="_blank">Link</a></td>
   </tr>
 
 </table>
